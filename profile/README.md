@@ -5,7 +5,7 @@ at the [Faculty of Engineering in Foreign Languages](https://fils.upb.ro/en/home
 [National Univeristy of Sciences and Technology Politehnica Bucharest](https://upb.ro/en/).
 
 ## Materials
-The [Lecture Materials](http://upb-fils-ma.github.io) website hosts the lectures, labs and 
+The [Lecture Materials](http://embedded-rust-101.wyliodrin.com) website hosts the lectures, labs and 
 the project requirements.
 
 
